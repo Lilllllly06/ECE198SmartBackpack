@@ -22,4 +22,4 @@ When an imbalance is detected, vibration feedback is triggered to alert the user
 ## **Set Up**
 Clone this repository to your local machine:
 ```bash
-git clone https://github.com/lilmonkey912/ECE198SmartBackpack.git 
+git clone https://github.com/lilllllly06/ECE198SmartBackpack.git 
